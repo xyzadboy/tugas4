@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shot
+comment1.params=
+comment1.target=Shot()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moving()
+comment4.params=
+comment4.target=void\ checkAtScreenEdge()
+comment5.params=
+comment5.target=void\ colliding()
+numComments=6
